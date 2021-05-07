@@ -22,7 +22,7 @@ Simple Kakao Login and REST API on Android
 
 ## Usage
 
-![1](https://user-images.githubusercontent.com/54389889/117381048-161be400-af16-11eb-9abd-3ce6d8b5339d.gif)
+![1](https://user-images.githubusercontent.com/54389889/117381217-888cc400-af16-11eb-807c-3d98535ade09.gif)
 
 - https://youtu.be/tXjGX-LRDsg
 
